@@ -1,7 +1,7 @@
 <h1 align="center">Repositorio de Raul Lara</h1>
 <h3 align="center">Soy egresado en Ingenieria en Computacion.</h3>
 
-- 📄 Desarrollo aplicaciones en el lado **Front End**
+- 📄 Desarrollo aplicaciones **Front End** y **Back End**
 
 
 <h3 align="left">Contectate conmigo en:</h3>
