@@ -1,7 +1,7 @@
 <h1 align="center">Repositorio de Raul Lara</h1>
-<h3 align="center">Ingeniero en Computacion.</h3>
+<h3 align="center">Ingeniero en Computacion</h3>
 
-- 📄 Desarrollo aplicaciones **Front End** y **Back End**
+- 📄 Desarrollo aplicaciones **Front End** y **Back End**.
 
 
 <h3 align="left">Conectate conmigo en:</h3>
